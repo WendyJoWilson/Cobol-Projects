@@ -73,15 +73,19 @@
 | Workshop 16.2a | Maintenance on Editing/Validation Program |     Mandatory      |     X     |           |
 | Workshop 16.2b | Maintenance on Editing/Validation Program |      Optional      |     X     |           |
 | Workshop 16.2e | Redesign and Restructure HOSPEDIT         |      Optional      |     X     |     X     |
-| Workshop 17.1  | Sample Table-Handling Program             |      Optional      |           |           |
-| Workshop 17.2a | Table-Handling Program                    |     Mandatory      |           |           |
-| Workshop 17.2b | Table-Handling Program                    |     Mandatory      |           |           |
+| Workshop 17.1  | Sample Table-Handling Program             |      Optional      |     X     |           |
+| Workshop 17.2a | Table-Handling Program                    |     Mandatory      |     X     |     X     |
+| Workshop 17.2b | Table-Handling Program                    |     Mandatory      |     X     |     X     |
 | Workshop 17.3a | What's the weather?                       |      Optional      |           |           |
 | Workshop 17.3b | What's the weather?                       |      Optional      |           |           |
 | Workshop 17.3c | Weather - Hourly updates/reports          |      Optional      |           |           |
-| Workshop 18.1  | One Level Control Break Program           |      Optional      |           |           |
-| Workshop 18.2  | One Level Control Break Program           |     Mandatory      |           |           |
+| Workshop 18.1  | One Level Control Break Program           |      Optional      |     X     |           |
+| Workshop 18.2  | One Level Control Break Program           |     Mandatory      |     X     |     X     |
 | Workshop 18.3  | Learn CNTRBR2                             |      Optional      |           |           |
 | Workshop 18.4  | Turn CNTRBR1 into Control Break Program   |      Optional      |           |           |
 | Workshop 18.5  | Three Level Control Break Program         |      Optional      |           |           |
+| Workshop 19.1  | Subprogram Concepts                       |      Optional      |     X     |           |
+| Workshop 19.2  | Another Series of Programs                |      Optional      |           |           |
+| Workshop 19.3  | 3-Tier Arch for INSCLAIM - Claim/Deduct   |      Optional      |           |           |
+| Workshop 19.4  | 3-Tier Arch for INSCLAIM - I/O routine    |      Optional      |           |           |
 |                |                                           |                    |           |           |
